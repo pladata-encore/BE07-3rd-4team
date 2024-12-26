@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8642554d-8386-4e4a-a670-190e5fabac72)![image](https://github.com/user-attachments/assets/ce6758ba-e331-4f00-8e92-991260d2bcf1)# BE07-3rd-4team
+
 ---
 # 📖 프로젝트 소개
 
