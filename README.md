@@ -56,3 +56,34 @@
    </details>
 
 ---
+
+---
+
+## CODE  
+
+   <details>
+      <summary><b>mimiFR</b></summary>
+      (https://github.com/05Daul/mimiFR.git)
+   </details>
+   <details>
+      <summary><b>mimidiscovery</b></summary>
+      (https://github.com/05Daul/mimidiscovery.git)
+   </details>
+   <details>
+      <summary><b>mimiRental</b></summary>
+      (https://github.com/05Daul/mimiRental.git)
+   </details>
+   <details>
+      <summary><b>mimigate</b></summary>
+      (https://github.com/05Daul/mimigate.git)
+   </details>
+   <details>
+      <summary><b>mimiUsers</b></summary>
+      (https://github.com/05Daul/mimiUsers.git)
+   </details>
+   <details>
+      <summary><b>mimiEquipment</b></summary>
+      (https://github.com/05Daul/mimiEquipment.git)
+   </details>
+  
+---
